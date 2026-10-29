@@ -25,11 +25,27 @@
 
 **Paso 1:**
 
+<img width="1339" height="488" alt="image" src="https://github.com/user-attachments/assets/150eaa2e-89f9-467b-bc73-76ce1da623b0" />
+
 **Paso 2:** 
+
+<img width="810" height="154" alt="image" src="https://github.com/user-attachments/assets/98d08a06-7e2f-4372-abd0-cf5fd23f76e2" />
 
 **Paso 3:** 
 
+<img width="980" height="235" alt="image" src="https://github.com/user-attachments/assets/e7012527-dfc6-433a-a0c1-6f5e45f0454f" />
+
 **Paso 4:**
+
+<img width="696" height="112" alt="image" src="https://github.com/user-attachments/assets/a4605d86-d8a5-41b5-8d7e-5ce2bebe4840" />
+
+**Paso 5:**
+
+<img width="1087" height="350" alt="image" src="https://github.com/user-attachments/assets/f513f772-2c7c-4415-82be-dabedbc5ab83" />
+
+**Paso 6:**
+
+<img width="933" height="327" alt="image" src="https://github.com/user-attachments/assets/67fdc922-0181-446b-bbae-b6d11cae68f7" />
 
 **Conclusiones**
 
