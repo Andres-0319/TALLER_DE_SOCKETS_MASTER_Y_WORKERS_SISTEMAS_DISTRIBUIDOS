@@ -61,5 +61,5 @@
 
 **Conclusiones**
 
-- **CONCLUSIÓN 1**
-- **CONCLUSIÓN 2**
+- La utilización conjunta de protocolos de transporte orientados a conexión (TCP) y no orientados a conexión (UDP) demostró ser una estrategia de diseño altamente eficiente, donde el canal UDP facilitó un monitoreo ligero y constante del estado de los agentes mediante latidos periódicos, mientras que el canal TCP garantizó una comunicación persistente, estructurada y libre de errores para el envío de comandos de control.
+- La modularidad empleada en la separación de scripts (master.py y worker.py) facilitó la escalabilidad y depuración del código, permitiendo simular entornos multicorte y multipuesto en una máquina local con total fluidez y precisión en los tiempos de respuesta, afianzando los criterios de evaluación establecidos en la materia de sistemas distribuidos, destacando la relevancia de aplicar un correcto manejo de errores.
