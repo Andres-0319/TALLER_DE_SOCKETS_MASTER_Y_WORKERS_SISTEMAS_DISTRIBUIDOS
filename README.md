@@ -41,7 +41,7 @@
 
 <img width="980" height="235" alt="image" src="https://github.com/user-attachments/assets/e7012527-dfc6-433a-a0c1-6f5e45f0454f" />
 
-**Paso 4:** Se lanza una ráfaga sincronizada de carga con el broadcast de 127.0.0.1 10
+**Paso 4:** Se lanza una ráfaga sincronizada de carga con el broadcast de 127.0.0.1 10. Al procesar esta directriz, el Master distribuye al mismo tiempo la orden de ataque simulada hacia todos los workers que se encuentren disponibles en ese momento para que se pueda asegurar una respuesta coordinada en la infraestructura correspondiente. La consola del nodo central imprime la confirmación de que la ráfaga sincronizada ha sido transmitida con éxito a los dos agentes conectados, demostrando la capacidad del sistema para gobernar múltiples flujos de trabajo de manera concurrente y centralizada.
 
 <img width="696" height="112" alt="image" src="https://github.com/user-attachments/assets/a4605d86-d8a5-41b5-8d7e-5ce2bebe4840" />
 
