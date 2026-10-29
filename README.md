@@ -51,7 +51,7 @@
 
 </div>
 
-**Paso 5:** Se ejecuta el worker 1.
+**Paso 5:** Se ejecuta el worker 1, en la que el script respectivo inicia un proceso de conexión intentando enlazar el socket TCP con el Master en la dirección local y el puerto designado, logrando establecer una sesión persistente que se confirma a través de un mensaje de "REGISTRATION_OK". Luego, el agente procesará de forma concurrente las instrucciones recibidas desde el nodo central ejecutando los hilos en segundo plano y reportando las métricas precisas del envío masivo de paquetes sin detener la comunicación.
 
 <img width="1087" height="350" alt="image" src="https://github.com/user-attachments/assets/f513f772-2c7c-4415-82be-dabedbc5ab83" />
 
