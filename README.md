@@ -55,7 +55,7 @@
 
 <img width="1087" height="350" alt="image" src="https://github.com/user-attachments/assets/f513f772-2c7c-4415-82be-dabedbc5ab83" />
 
-**Paso 6:** Se ejecuta el worker 2.
+**Paso 6:** Se ejecuta el worker 2, en la que se despliega una segunda instancia del nodo de trabajo ejecutando el script en otra terminal independiente bajo el identificador "Worker_02". Al igual que el agente anterior, este nodo establece de forma automática su canal de comunicación TCP con el servidor central tras recibir la validación de registro exitoso, integrándose de manera transparente a la infraestructura distribuida haciendo que el worker procese la orden global de ráfaga sincronizada emitida mediante el comando de broadcast.
 
 <img width="933" height="327" alt="image" src="https://github.com/user-attachments/assets/67fdc922-0181-446b-bbae-b6d11cae68f7" />
 
