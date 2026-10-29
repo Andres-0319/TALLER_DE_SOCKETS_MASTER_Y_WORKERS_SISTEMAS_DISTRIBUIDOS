@@ -33,7 +33,7 @@
 
 </div>
 
-**Paso 2:** Ejecución de la opción de listado.
+**Paso 2:** Como se puede apreciar en el registro del sistema, la ejecución de la opción del listado desplegará una tabla global actualizada que explique de forma estructurada los identificadores únicos de cada agente, sus respectivas direcciones IP locales, el porcentaje de uso actual del procesador, el estado de conectividad online y el canal TCP asociado. Esta herramienta permite al nodo central mantener un control total sobre la infraestructura distribuida, validando en tiempo real qué elementos están activos y listos para recibir las instrucciones operativas correspondientes.
 
 <img width="810" height="154" alt="image" src="https://github.com/user-attachments/assets/98d08a06-7e2f-4372-abd0-cf5fd23f76e2" />
 
