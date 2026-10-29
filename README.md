@@ -37,7 +37,7 @@
 
 <img width="810" height="154" alt="image" src="https://github.com/user-attachments/assets/98d08a06-7e2f-4372-abd0-cf5fd23f76e2" />
 
-**Paso 3:** Se envía una tarea específica a un worker con el comando exec Worker_01 scan_ports.
+**Paso 3:** Se envía una tarea específica a un worker con el comando exec Worker_01 scan_ports. El servidor central procesa la sintaxis y despacha el comando hacia el agente seleccionado, notificando a través de un mensaje en pantalla que la orden fue enviada exitosamente a través del socket establecido previamente.Luego de la ejecución en segundo plano por parte del agente correspondiente, el Master recibe de vuelta un informe estructurado que confirma la finalización exitosa de la tarea solicitada, validando el correcto funcionamiento del entorno correspondiente.
 
 <img width="980" height="235" alt="image" src="https://github.com/user-attachments/assets/e7012527-dfc6-433a-a0c1-6f5e45f0454f" />
 
