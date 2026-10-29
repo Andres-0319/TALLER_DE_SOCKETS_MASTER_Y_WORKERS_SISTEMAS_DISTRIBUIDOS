@@ -23,7 +23,7 @@
 
 **Desarrollo de la actividad**
 
-**Paso 1:** Se ejecuta el archivo "master.py".
+**Paso 1:** El operador debe abrir una terminal en el entorno local correspondiente y ejecutar el script principal del nodo central a través de la ejecución del comando "python3 master.py", para que se pueda levantar de manera simultánea el servidor UDP de latidos en el puerto 5000 y el servidor TCP multihilo en el puerto 5001. Luego de ejecutar esta tarea, en la consola se despliega una interfaz de línea de comandos (CLI) del Master, mostrando el menú con los comandos disponibles y quedando a la espera de las conexiones persistentes.
 
 <img width="1339" height="488" alt="image" src="https://github.com/user-attachments/assets/150eaa2e-89f9-467b-bc73-76ce1da623b0" />
 
